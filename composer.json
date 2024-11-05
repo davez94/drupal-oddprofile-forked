@@ -1,5 +1,5 @@
 {
-    "name": "oddhill/zfz-profile",
+    "name": "040/zfzprofile",
     "description": "The base profile used for all our Drupal sites.",
     "type": "drupal-profile",
     "license": "MIT",
