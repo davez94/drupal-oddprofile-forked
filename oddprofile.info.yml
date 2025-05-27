@@ -49,7 +49,6 @@ install:
   - core:views
   - core:views_ui
   - core:workflows
-  - csp_extras:csp_extras
   - csp:csp
   - eu_cookie_compliance:eu_cookie_compliance
   - gin_toolbar:gin_toolbar
